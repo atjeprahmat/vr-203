@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_E8EA29ED_E111_0E8D_41E4_5F97DA3EE2A5.label = 05-12-2022 06.49.11
+panorama_EBD73A81_E117_0D75_41E3_B3115698CC70.label = 05-12-2022 06.51.02
+panorama_EEFEB6F7_E131_029D_41D3_597462CBBDC5.label = 05-12-2022 07.00.37
+
+## Skin
+
+### Multiline Text
+HTMLText_F38EE634_E111_0593_41E7_C1697BB10163.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18.5px;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-family:Tahoma, Geneva, sans-serif;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
